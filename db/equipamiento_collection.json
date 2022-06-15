@@ -1,0 +1,10 @@
+[{"nombre": "Tijeras de paramédico", "marca": "Petzl", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Casco de seguridad", "marca": "Petzl", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Ambulancia", "marca": "Mercedes Benz", "placa": "123-ABC", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Guantes de seguridad","marca": "Dumbo", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Hacha", "marca": "Truper", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Pala", "marca": "Truper", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Bomba de agua", "marca": "Liquid", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Torniquete", "marca": "Eyocean", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Motociclete", "marca": "KTM", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}},
+{"nombre": "Desfibrilador", "marca": "Progetti", "estado": "disponible", "ultimoUso": {"fecha": null,"observacion": "ninguna"}}]
