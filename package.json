@@ -4,7 +4,10 @@
   "description": "Aplicación web para el control de inventarios de equipamiento en el SAR Bolivia",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd server && npm run dev",
+
+    "ejemplo_dev_con_frontend": "concurrently \"cd server && npm run dev\" \"cd client && npm start\""
   },
   "repository": {
     "type": "git",
