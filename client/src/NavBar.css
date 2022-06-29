@@ -1,0 +1,32 @@
+.nav-bar {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.09);
+}
+.nav-bar_list {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+}
+.nav-bar_list a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    /* background-color: cadetblue; */
+}
+.nav-bar_list a:hover {
+    cursor: pointer;
+    border-bottom: 3px solid #ff4f00;
+    color: #ff4f00;
+    font-weight: 400;
+}
